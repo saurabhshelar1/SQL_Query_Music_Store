@@ -1,3 +1,3 @@
 # SQL_Query_Music_Store
-### Music Store Data Analysis and Questionnaire-Driven Insights
-This project revolves around the thorough examination of a music store dataset, with a particular emphasis on extracting the data as per a predefined questionnaire. Additionally, a schema has been provided to enhance our comprehension of the interconnections between tables within the database.
+### Music Store Database Analysis with Questionnaire-Driven Data Extraction and Schema Visualization
+This project is dedicated to the comprehensive analysis of a Music Store database. The primary objectives are to extract and analyze data in response to a set of specific questions outlined in the "Music Store Analysis-Questions" file. Additionally, a schema has been included in the "MusicDatabaseSchema" file to facilitate a deeper understanding of the database's table relationships.
